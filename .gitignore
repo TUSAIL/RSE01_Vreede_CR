@@ -163,3 +163,4 @@ cython_debug/
 
 # don't want mockfile present
 mockfile.txt
+newmock.txt
