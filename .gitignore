@@ -1,7 +1,0 @@
-*.dat
-!bigdataset.dat
-results/*
-!results/output1.csv
-
-
-
