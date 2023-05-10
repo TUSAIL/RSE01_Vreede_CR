@@ -1,3 +1,3 @@
 # RSE01_Vreede_CR
 
-Here is some information about my repository.
+This repository has a conversion.py file which converts the temperature into Celsius and Farenheit.
