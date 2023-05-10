@@ -1,5 +1,6 @@
 *.dat
-results/
+!bigdataset.dat
+results/*
 !results/output1.csv
 
 
