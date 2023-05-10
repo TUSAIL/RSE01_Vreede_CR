@@ -1,4 +1,4 @@
 def celsius_to_kelvin(celsius):
-    """This function converts celsius to kelvin"""
+    """Function to return Kelvin degrees from Celsius input"""
     return celsius + 273.15
 
